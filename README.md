@@ -1,8 +1,7 @@
 # checking whether you are in security check in verification process
 
 Take the code and paste in console in your brower, before that, make sure to copy the object rendered and assign it to variable a.
-"\n"
-\n
+<br>
 Open the developer tool f12 or right-click inspect when you click the "view" button inside the portal
 ![image](https://github.com/tomwuchenhe/Checking-Security-Check/assets/123397789/16ede6cb-ffac-4d1f-956a-a42df4931ad5)
 When you see the object rendered like this, right click and copy element
